@@ -2,7 +2,7 @@
 
 # Dependencies
 
-train_trendency.csv
-train_vaccine.csv
-pip install torch
+* pip install torch
+* train_trendency.csv
+* train_vaccine.csv
 
