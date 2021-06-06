@@ -1,0 +1,7 @@
+This code was written in a Kaggle notebook. It can be run outside of Kaggle,
+but the input data files will need to be at the following locations:
+	/kaggle/input/2021spring-cs145-ucla-covid19-prediction/train_vaccine.csv	
+	/kaggle/input/2021spring-cs145-ucla-covid19-prediction/train_trendency.csv
+
+The output csv file will be written to the following location:
+	/kaggle/working/submission.csv
